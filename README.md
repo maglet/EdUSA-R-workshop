@@ -15,7 +15,7 @@ Instructor: Tobin Magle, PhD; Data and Information Specialist at the Science and
 * More detailed lessons from Tobin: https://researchguides.library.wisc.edu/R
 * Original source material: https://datacarpentry.org/R-ecology-lesson/
 
-### Code for installing software
+### Installing software
 * Install R : https://mirror.las.iastate.edu/CRAN/
 * R Studio: https://www.rstudio.com/products/rstudio/download/#download
 * install packages in R Studio: install.packages("tidyverse") 
